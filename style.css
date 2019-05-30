@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: block;
+    owerflow: hidden;
+    position: relative;
+    height: 90px;
+    width: 728px;
+}
+.fix{
+    position: absolute;
+}
+.img11{
+    left: 365px;
+}
+.img12{
+    left: 500px;
+}
+.img13{
+    left: 432px;
+}
